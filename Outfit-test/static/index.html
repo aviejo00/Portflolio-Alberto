@@ -1,0 +1,111 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Outfit Planner</title>
+    <link rel="stylesheet" href="/static/styles.css">
+  </head>
+  <body>
+    <main class="app-shell">
+      <section class="topbar">
+        <div>
+          <p class="eyebrow">Wardrobe rotation</p>
+          <h1>Outfit Planner</h1>
+        </div>
+        <button class="primary-action" id="recommendButton" type="button">Recommend outfit</button>
+      </section>
+
+      <section class="workspace">
+        <aside class="weather-panel">
+          <h2>Weather</h2>
+          <label>
+            Date
+            <input id="dateInput" type="date">
+          </label>
+
+          <div class="temperature-grid">
+            <label>
+              Min
+              <input id="minTempInput" type="number" value="12" min="-10" max="45" step="1">
+            </label>
+            <label>
+              Max
+              <input id="maxTempInput" type="number" value="22" min="-10" max="45" step="1">
+            </label>
+          </div>
+
+          <label class="toggle-row">
+            <input id="rainInput" type="checkbox">
+            Rain
+          </label>
+
+          <section class="profile-panel" aria-label="Profile">
+            <div class="profile-heading">
+              <h2>Profile</h2>
+              <span id="profileStatus">Guest</span>
+            </div>
+
+            <label>
+              Username
+              <input id="usernameInput" type="text" autocomplete="username">
+            </label>
+
+            <label>
+              Password
+              <input id="passwordInput" type="password" autocomplete="current-password">
+            </label>
+
+            <div class="profile-actions">
+              <button class="secondary-action" id="registerButton" type="button">Register</button>
+              <button class="secondary-action ghost-action" id="loginButton" type="button">Login</button>
+              <button class="secondary-action" id="saveGarmentsButton" type="button" disabled>Save garments</button>
+              <button class="icon-action" id="logoutButton" type="button" disabled>Logout</button>
+            </div>
+
+            <p class="profile-message" id="profileMessage"></p>
+          </section>
+
+          <div class="result-panel" id="resultPanel">
+            <p class="muted">No recommendation yet.</p>
+          </div>
+        </aside>
+
+        <section class="wardrobe-panel">
+          <div class="section-heading">
+            <div>
+              <p class="eyebrow">Closet</p>
+              <h2>Garments</h2>
+            </div>
+            <button class="secondary-action" id="addGarmentButton" type="button">Add garment</button>
+          </div>
+
+          <div class="garment-table" id="garmentTable" aria-label="Garments"></div>
+        </section>
+      </section>
+    </main>
+
+    <template id="garmentRowTemplate">
+      <div class="garment-row">
+        <input class="garment-id" type="text" aria-label="Garment name">
+        <select class="garment-type" aria-label="Garment type">
+          <option value="top">Top</option>
+          <option value="bottom">Bottom</option>
+          <option value="shoes">Shoes</option>
+          <option value="outerwear">Outerwear</option>
+        </select>
+        <label class="warmth-field">
+          Warmth
+          <input class="garment-warmth" type="range" min="0" max="1" step="0.05">
+        </label>
+        <label class="checkbox-field">
+          <input class="garment-waterproof" type="checkbox">
+          Waterproof
+        </label>
+        <button class="icon-action remove-garment" type="button" aria-label="Remove garment">Remove</button>
+      </div>
+    </template>
+
+    <script src="/static/app.js"></script>
+  </body>
+</html>

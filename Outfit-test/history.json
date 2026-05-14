@@ -1,0 +1,41 @@
+{
+  "entries": [
+    {
+      "date": null,
+      "day": "lunes",
+      "outfit": [
+        "camisa_blanca",
+        "vaqueros",
+        "zapatillas"
+      ]
+    },
+    {
+      "date": null,
+      "day": "lunes",
+      "outfit": [
+        "camisa_blanca",
+        "vaqueros",
+        "zapatillas",
+        "chaqueta"
+      ]
+    },
+    {
+      "date": "2026-05-14",
+      "day": "jueves",
+      "outfit": [
+        "black_tshirt",
+        "chinos",
+        "trainers"
+      ]
+    },
+    {
+      "date": "2026-05-21",
+      "day": "jueves",
+      "outfit": [
+        "white_shirt",
+        "jeans",
+        "boots"
+      ]
+    }
+  ]
+}
