@@ -278,7 +278,7 @@ Stores local user records:
 ```json
 {
   "users": {
-    "alberto": {
+    "user": {
       "salt": "random_hex_salt",
       "password_hash": "pbkdf2_hash",
       "token": "session_token",
