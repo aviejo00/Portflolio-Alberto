@@ -1,0 +1,52 @@
+{
+  "users": {
+    "alberto": {
+      "salt": "11aec4459c2245ce8ff735fa57b9406d",
+      "password_hash": "1856b33aac3edf52b5347a5ab0a2231b5eb100412845f24d983757ee5329812c",
+      "token": "ODYnMGmB2_pGgt-KqWkguhqwBDN1RLjx4fMf0dyFb2M",
+      "garments": [
+        {
+          "id": "camiseta nortf",
+          "type": "top",
+          "color": "white",
+          "warmth": 0.2,
+          "waterproof": false
+        },
+        {
+          "id": "pantalon corto",
+          "type": "bottom",
+          "color": "beige",
+          "warmth": 0.25,
+          "waterproof": false
+        },
+        {
+          "id": "zapatillas",
+          "type": "shoes",
+          "color": "brown",
+          "warmth": 0.4,
+          "waterproof": false
+        }
+      ],
+      "compatibility": {
+        "camiseta nortf": [
+          "pantalon corto",
+          "zapatillas"
+        ],
+        "pantalon corto": [
+          "camiseta nortf",
+          "zapatillas"
+        ],
+        "zapatillas": [
+          "camiseta nortf",
+          "pantalon corto"
+        ]
+      }
+    },
+    "eva": {
+      "salt": "9f154b02a7b9605d7b2b49b4b46348dc",
+      "password_hash": "5f6471cf004e836c3a4c1cf07ce01e6bf5c415b545e81fbf9de1031713c19445",
+      "token": "DUh3lEgiXjX6yNZgiaCfhtfrIM33MqBytQ60yAJe9QI",
+      "garments": []
+    }
+  }
+}
