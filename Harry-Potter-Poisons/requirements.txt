@@ -1,0 +1,2 @@
+# No third-party dependencies are required.
+# The app uses Python's standard library, including tkinter.
