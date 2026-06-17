@@ -1,0 +1,7 @@
+dataset,source,accessed_on,notes
+laliga_team_seasons,https://en.wikipedia.org/wiki/2025-26_La_Liga,2026-06-17,2025-26 final table: Barcelona champion; Mallorca/Girona/Oviedo relegated
+laliga_team_seasons,https://en.wikipedia.org/wiki/2024-25_La_Liga,2026-06-17,2024-25 final table and European/relegation notes
+segunda_promoted_seasons,https://en.wikipedia.org/wiki/2025-26_Segunda_Division,2026-06-17,2025-26 Segunda table: Racing and Deportivo direct promotion; Almeria third before playoff
+segunda_promoted_seasons,https://as.com/futbol/segunda/asi-queda-el-playoff-de-laliga-hypermotion-fechas-horarios-cruces-y-cuadro-para-ascender-a-laliga-ea-sports-f202605-n/,2026-06-17,Playoff was unresolved at build time; user requested Almeria assumption
+team_context_2026_27,https://as.com/futbol/la-plantilla-del-athletic-pierde-valor-f202606-n/,2026-06-17,Market-value examples for Athletic, Villarreal, Real Sociedad and Betis; other squad values are rounded modelling priors
+key_players_2026_27,https://cadenaser.com/andalucia/2026/03/28/arribas-es-la-estrella-en-el-xi-mas-cotizado-de-la-historia-con-85-millones-ser-almeria/,2026-06-17,Promoted-team player value anchors for Arribas, Yeremay, Andres Martin and others

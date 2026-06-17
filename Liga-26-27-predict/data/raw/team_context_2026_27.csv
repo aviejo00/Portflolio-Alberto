@@ -1,0 +1,21 @@
+team,prev_tier,prev_position,prev_points,prev_goals_for,prev_goals_against,promoted,uefa_level,coach_continuity,market_value_m_eur,squad_avg_age,squad_size,international_players,top_player_value_m_eur,transfer_momentum,data_confidence,notes
+Barcelona,1,1,94,95,36,0,3,1.00,1120,25.2,25,15,200,0.05,medium,Champion and Champions League participant
+Real Madrid,1,2,86,77,35,0,3,0.65,1290,25.8,25,17,180,0.03,medium,Elite squad value but recent coaching change risk
+Villarreal,1,3,72,72,46,0,3,1.00,302,26.7,25,8,60,0.03,medium,Strong 2025-26 season and Champions League load
+Atletico Madrid,1,4,69,62,44,0,3,1.00,650,28.0,25,14,100,0.02,medium,Stable top-four baseline with Champions League load
+Real Betis,1,5,60,59,48,0,3,1.00,246,28.4,26,8,35,0.01,medium,Extra Champions League place in 2025-26 context
+Celta Vigo,1,6,54,53,48,0,2,1.00,125,25.6,25,4,20,0.03,medium,Europa League load after strong league finish
+Getafe,1,7,51,32,38,0,1,1.00,85,27.8,25,3,18,-0.01,medium,Conference League load and very low scoring profile
+Rayo Vallecano,1,8,50,41,44,0,0,1.00,78,28.6,25,2,15,-0.02,medium,Solid mid-table baseline
+Valencia,1,9,49,46,55,0,0,1.00,185,24.7,25,7,35,-0.01,medium,Young squad with higher ceiling than recent results
+Real Sociedad,1,10,46,59,61,0,2,0.60,255,25.5,25,9,45,0.02,medium,Copa winner and Europa League participant after poor league year
+Espanyol,1,11,46,43,55,0,0,1.00,70,27.2,25,2,12,-0.01,medium,Survival/mid-table band
+Athletic Bilbao,1,12,45,43,58,0,0,1.00,229,26.0,25,7,45,-0.04,medium,Market value drop after underperforming year
+Sevilla,1,13,43,46,60,0,0,0.45,135,27.0,26,4,20,-0.03,medium,Institutional upside but recent instability
+Alaves,1,14,43,44,56,0,0,0.55,82,26.8,25,2,12,0.00,medium,Lower-mid-table survival profile
+Elche,1,15,43,49,57,0,0,1.00,55,27.0,26,1,8,-0.01,medium,Recent promoted side that survived
+Levante,1,16,42,47,61,0,0,0.70,52,26.6,25,1,8,-0.02,medium,Narrow survival in 2025-26
+Osasuna,1,17,42,44,50,0,0,0.80,108,27.9,25,3,20,0.00,medium,Narrow survival but stable club profile
+Racing Santander,2,1,82,90,61,1,0,1.00,62,26.5,25,2,7,0.03,medium,Direct Segunda champion; strong attack and high goals conceded
+Deportivo La Coruna,2,2,77,65,44,1,0,1.00,58,26.2,25,2,25,0.04,medium,Direct promotion and high-value young winger
+Almeria,2,3,74,81,63,1,0,1.00,82,26.0,25,3,15,0.05,medium,Assumed playoff winner per user instruction

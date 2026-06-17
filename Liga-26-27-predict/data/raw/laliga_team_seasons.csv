@@ -1,0 +1,201 @@
+season,team,final_position,points
+2016-17,Real Madrid,1,93
+2016-17,Barcelona,2,90
+2016-17,Atletico Madrid,3,78
+2016-17,Sevilla,4,72
+2016-17,Villarreal,5,67
+2016-17,Real Sociedad,6,64
+2016-17,Athletic Bilbao,7,63
+2016-17,Espanyol,8,56
+2016-17,Alaves,9,55
+2016-17,Eibar,10,54
+2016-17,Malaga,11,46
+2016-17,Valencia,12,46
+2016-17,Celta Vigo,13,45
+2016-17,Las Palmas,14,39
+2016-17,Real Betis,15,39
+2016-17,Deportivo La Coruna,16,36
+2016-17,Leganes,17,35
+2016-17,Sporting Gijon,18,31
+2016-17,Osasuna,19,22
+2016-17,Granada,20,20
+2017-18,Barcelona,1,93
+2017-18,Atletico Madrid,2,79
+2017-18,Real Madrid,3,76
+2017-18,Valencia,4,73
+2017-18,Villarreal,5,61
+2017-18,Real Betis,6,60
+2017-18,Sevilla,7,58
+2017-18,Getafe,8,55
+2017-18,Eibar,9,51
+2017-18,Girona,10,51
+2017-18,Espanyol,11,49
+2017-18,Real Sociedad,12,49
+2017-18,Celta Vigo,13,49
+2017-18,Alaves,14,47
+2017-18,Levante,15,46
+2017-18,Athletic Bilbao,16,43
+2017-18,Leganes,17,43
+2017-18,Deportivo La Coruna,18,29
+2017-18,Las Palmas,19,22
+2017-18,Malaga,20,20
+2018-19,Barcelona,1,87
+2018-19,Atletico Madrid,2,76
+2018-19,Real Madrid,3,68
+2018-19,Valencia,4,61
+2018-19,Getafe,5,59
+2018-19,Sevilla,6,59
+2018-19,Espanyol,7,53
+2018-19,Athletic Bilbao,8,53
+2018-19,Real Sociedad,9,50
+2018-19,Real Betis,10,50
+2018-19,Alaves,11,50
+2018-19,Eibar,12,47
+2018-19,Leganes,13,45
+2018-19,Villarreal,14,44
+2018-19,Levante,15,44
+2018-19,Valladolid,16,41
+2018-19,Celta Vigo,17,41
+2018-19,Girona,18,37
+2018-19,Huesca,19,33
+2018-19,Rayo Vallecano,20,32
+2019-20,Real Madrid,1,87
+2019-20,Barcelona,2,82
+2019-20,Atletico Madrid,3,70
+2019-20,Sevilla,4,70
+2019-20,Villarreal,5,60
+2019-20,Real Sociedad,6,56
+2019-20,Granada,7,56
+2019-20,Getafe,8,54
+2019-20,Valencia,9,53
+2019-20,Osasuna,10,52
+2019-20,Athletic Bilbao,11,51
+2019-20,Levante,12,49
+2019-20,Valladolid,13,42
+2019-20,Eibar,14,42
+2019-20,Real Betis,15,41
+2019-20,Alaves,16,39
+2019-20,Celta Vigo,17,37
+2019-20,Leganes,18,36
+2019-20,Mallorca,19,33
+2019-20,Espanyol,20,25
+2020-21,Atletico Madrid,1,86
+2020-21,Real Madrid,2,84
+2020-21,Barcelona,3,79
+2020-21,Sevilla,4,77
+2020-21,Real Sociedad,5,62
+2020-21,Real Betis,6,61
+2020-21,Villarreal,7,58
+2020-21,Celta Vigo,8,53
+2020-21,Granada,9,46
+2020-21,Athletic Bilbao,10,46
+2020-21,Osasuna,11,44
+2020-21,Cadiz,12,44
+2020-21,Valencia,13,43
+2020-21,Levante,14,41
+2020-21,Getafe,15,38
+2020-21,Alaves,16,38
+2020-21,Elche,17,36
+2020-21,Huesca,18,34
+2020-21,Valladolid,19,31
+2020-21,Eibar,20,30
+2021-22,Real Madrid,1,86
+2021-22,Barcelona,2,73
+2021-22,Atletico Madrid,3,71
+2021-22,Sevilla,4,70
+2021-22,Real Betis,5,65
+2021-22,Real Sociedad,6,62
+2021-22,Villarreal,7,59
+2021-22,Athletic Bilbao,8,55
+2021-22,Valencia,9,48
+2021-22,Osasuna,10,47
+2021-22,Celta Vigo,11,46
+2021-22,Rayo Vallecano,12,42
+2021-22,Elche,13,42
+2021-22,Espanyol,14,42
+2021-22,Getafe,15,39
+2021-22,Mallorca,16,39
+2021-22,Cadiz,17,39
+2021-22,Granada,18,38
+2021-22,Levante,19,35
+2021-22,Alaves,20,31
+2022-23,Barcelona,1,88
+2022-23,Real Madrid,2,78
+2022-23,Atletico Madrid,3,77
+2022-23,Real Sociedad,4,71
+2022-23,Villarreal,5,64
+2022-23,Real Betis,6,60
+2022-23,Osasuna,7,53
+2022-23,Athletic Bilbao,8,51
+2022-23,Mallorca,9,50
+2022-23,Girona,10,49
+2022-23,Rayo Vallecano,11,49
+2022-23,Sevilla,12,49
+2022-23,Celta Vigo,13,43
+2022-23,Cadiz,14,42
+2022-23,Getafe,15,42
+2022-23,Valencia,16,42
+2022-23,Almeria,17,41
+2022-23,Valladolid,18,40
+2022-23,Espanyol,19,37
+2022-23,Elche,20,25
+2023-24,Real Madrid,1,95
+2023-24,Barcelona,2,85
+2023-24,Girona,3,81
+2023-24,Atletico Madrid,4,76
+2023-24,Athletic Bilbao,5,68
+2023-24,Real Sociedad,6,60
+2023-24,Real Betis,7,57
+2023-24,Villarreal,8,53
+2023-24,Valencia,9,49
+2023-24,Alaves,10,46
+2023-24,Osasuna,11,45
+2023-24,Getafe,12,43
+2023-24,Celta Vigo,13,41
+2023-24,Sevilla,14,41
+2023-24,Mallorca,15,40
+2023-24,Las Palmas,16,40
+2023-24,Rayo Vallecano,17,38
+2023-24,Cadiz,18,33
+2023-24,Almeria,19,21
+2023-24,Granada,20,21
+2024-25,Barcelona,1,88
+2024-25,Real Madrid,2,84
+2024-25,Atletico Madrid,3,76
+2024-25,Athletic Bilbao,4,70
+2024-25,Villarreal,5,70
+2024-25,Real Betis,6,60
+2024-25,Celta Vigo,7,55
+2024-25,Rayo Vallecano,8,52
+2024-25,Osasuna,9,52
+2024-25,Mallorca,10,48
+2024-25,Real Sociedad,11,46
+2024-25,Valencia,12,46
+2024-25,Getafe,13,42
+2024-25,Espanyol,14,42
+2024-25,Alaves,15,42
+2024-25,Girona,16,41
+2024-25,Sevilla,17,41
+2024-25,Leganes,18,40
+2024-25,Las Palmas,19,32
+2024-25,Valladolid,20,16
+2025-26,Barcelona,1,94
+2025-26,Real Madrid,2,86
+2025-26,Villarreal,3,72
+2025-26,Atletico Madrid,4,69
+2025-26,Real Betis,5,60
+2025-26,Celta Vigo,6,54
+2025-26,Getafe,7,51
+2025-26,Rayo Vallecano,8,50
+2025-26,Valencia,9,49
+2025-26,Real Sociedad,10,46
+2025-26,Espanyol,11,46
+2025-26,Athletic Bilbao,12,45
+2025-26,Sevilla,13,43
+2025-26,Alaves,14,43
+2025-26,Elche,15,43
+2025-26,Levante,16,42
+2025-26,Osasuna,17,42
+2025-26,Mallorca,18,42
+2025-26,Girona,19,41
+2025-26,Real Oviedo,20,29

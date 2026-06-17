@@ -1,0 +1,7 @@
+.venv/
+.venv-liga/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+models/*.joblib
+data/processed/*.csv

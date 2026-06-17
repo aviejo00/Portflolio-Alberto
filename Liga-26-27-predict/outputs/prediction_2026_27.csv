@@ -1,0 +1,21 @@
+team,predicted_points,predicted_position,bucket,prob_campeon,prob_champions,prob_europa_league,prob_conference,prob_descenso
+Real Madrid,78.1,1,campeon,0.4767,0.5164,0.0056,0.0007,0.0
+Barcelona,77.8,2,champions,0.4556,0.5375,0.006,0.0004,0.0
+Atletico Madrid,67.9,3,champions,0.0641,0.8198,0.0784,0.0148,0.0001
+Villarreal,55.4,4,champions,0.0014,0.2682,0.2621,0.0869,0.0177
+Real Betis,54.9,5,europa_league,0.0011,0.2364,0.261,0.0926,0.0213
+Real Sociedad,51.0,6,europa_league,0.0004,0.1088,0.1889,0.0857,0.0644
+Celta Vigo,49.4,7,conference,0.0001,0.0746,0.1447,0.0756,0.0938
+Valencia,49.4,8,media_tabla,0.0001,0.0702,0.1479,0.0774,0.0997
+Osasuna,48.5,9,media_tabla,0.0001,0.0606,0.1264,0.0688,0.116
+Almeria,48.2,10,media_tabla,0.0,0.054,0.1216,0.066,0.1279
+Racing Santander,47.7,11,media_tabla,0.0,0.0462,0.1066,0.0622,0.1441
+Getafe,47.5,12,media_tabla,0.0001,0.0473,0.0988,0.0636,0.1528
+Athletic Bilbao,47.3,13,media_tabla,0.0,0.0427,0.1013,0.0615,0.1556
+Rayo Vallecano,45.7,14,media_tabla,0.0001,0.027,0.071,0.0482,0.2126
+Alaves,44.9,15,media_tabla,0.0,0.0202,0.0591,0.041,0.2486
+Deportivo La Coruna,44.2,16,media_tabla,0.0,0.0162,0.0522,0.0331,0.2844
+Levante,43.9,17,media_tabla,0.0,0.0158,0.0464,0.033,0.2894
+Sevilla,43.6,18,descenso,0.0,0.0148,0.0446,0.034,0.3048
+Elche,43.3,19,descenso,0.0,0.0116,0.0418,0.0295,0.3202
+Espanyol,42.8,20,descenso,0.0,0.0115,0.0356,0.025,0.3462
