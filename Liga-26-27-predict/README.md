@@ -8,17 +8,17 @@ I built this project to predict the next Spanish LaLiga season in a bounded way.
 - Conference League place
 - relegated teams
 
-For the unresolved final promotion spot, I use Almeria as the assumed promoted team.
+The third promoted team is Malaga, who beat UD Almeria 2-1 in the LaLiga Hypermotion promotion playoff final.
 
 ## Current Prediction
 
-The initial prediction is available in `outputs/prediction_2026_27.csv`.
+The current prediction is available in `outputs/prediction_2026_27.csv`.
 
-- Winner: Barcelona
-- Champions League: Real Madrid, Atletico Madrid, Villarreal
+- Winner: Real Madrid
+- Champions League: Barcelona, Atletico Madrid, Villarreal
 - Europa League: Real Betis, Real Sociedad
-- Conference League: Athletic Bilbao
-- Relegation: Levante, Deportivo La Coruna, Racing Santander
+- Conference League: Celta Vigo
+- Relegation: Sevilla, Elche, Espanyol
 
 This allocation only uses league position. I do not assume Copa del Rey effects or extra European Performance Spot changes.
 
@@ -104,7 +104,7 @@ This is a modelling project, not a betting tool. Football is noisy, and a lot ca
 
 Important assumptions:
 
-- Almeria is treated as the final promoted team.
+- Malaga is the final promoted team, confirmed by their 2-1 playoff final win over UD Almeria.
 - The European places are assigned using league position only.
 - Squad values are rounded modelling inputs and should be updated after the transfer window.
 - Injuries, tactical changes, late transfers and fixture congestion are only indirectly represented.
@@ -114,6 +114,7 @@ Important assumptions:
 - LaLiga 2025-26: https://en.wikipedia.org/wiki/2025%E2%80%9326_La_Liga
 - LaLiga 2024-25: https://en.wikipedia.org/wiki/2024%E2%80%9325_La_Liga
 - Segunda Division 2025-26: https://en.wikipedia.org/wiki/2025%E2%80%9326_Segunda_Divisi%C3%B3n
-- Promotion playoff context: https://as.com/futbol/segunda/asi-queda-el-playoff-de-laliga-hypermotion-fechas-horarios-cruces-y-cuadro-para-ascender-a-laliga-ea-sports-f202605-n/
+- Promotion playoff result: https://www.malagacf.com/en/news/heroic-malaga-promoted-to-the-second-division-2-2
 - Squad value context: https://as.com/futbol/la-plantilla-del-athletic-pierde-valor-f202606-n/
+- Malaga squad value and coaching change: https://www.transfermarkt.us/malaga-cf/kader/verein/1084/saison_id/2025/plus/1 and https://www.eldesmarque.com/futbol/20251119/funes-nuevo-entrenador-malaga-cf_18_017676160.html
 - Segunda Division player value context: https://cadenaser.com/andalucia/2026/03/28/arribas-es-la-estrella-en-el-xi-mas-cotizado-de-la-historia-con-85-millones-ser-almeria/
